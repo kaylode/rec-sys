@@ -1,7 +1,14 @@
+<p align="center">
+ <a><img width=800px src="https://github.com/kaylode/recommender-system/blob/master/images/recsys.png"></a>
+</p>
+
+- Most recommendation systems nowadays are still using traditional methods. This repo introduces these old-fashioned methods and gives in-depth information about these systems. The slide is translated and based on the book [Social Data Mining](https://www.amazon.com/Social-Media-Mining-Reza-Zafarani/dp/1107018854). Notebook is also provided for demonstration
+
 # **Traditional Recommendation System**
 
-## Code Session
-[![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SpFhY9uL-RTYnIqkl-NgAYMqbVSlm_kj?usp=sharing)
+<p align="center">
+ <a><img height=400px src="https://github.com/kaylode/recommender-system/blob/master/images/traditional.png"></a>
+</p>
 
 ## :star: **Content-based Recommendation System**
 1. Vectorize items using TF-IDF
@@ -27,6 +34,11 @@
 2. Apply Eckart–Young–Mirsky theorem (Frobenius norm) to get U_k, Sigma_k, V_k
 3. Get A_k  = U_k · Sigma_k  · V_k 
 4. Use A_k for predicting ratings
+
+## Resources
+- Notebooks: [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaylode/recommender-system/blob/master/resources/Recommender_System.ipynb)
+
+- Slide: [link](./resources/SMM-Slides-ch9-vn.pdf)
 
 ## References
 - https://en.wikipedia.org/wiki/Low-rank_approximation
