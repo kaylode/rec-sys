@@ -3,7 +3,7 @@
 - Most recommendation systems nowadays are still using traditional methods. This repo introduces these old-fashioned methods and gives in-depth information about these systems. The slide is translated and based on the book [Social Data Mining](https://www.amazon.com/Social-Media-Mining-Reza-Zafarani/dp/1107018854). Notebook is also provided for demonstration
 
 <p align="center">
- <a><img height=400px src="https://github.com/kaylode/recommender-system/blob/master/images/traditional.png"></a>
+ <a><img height=400px src="https://github.com/kaylode/rec-sys/blob/master/images/traditional.png"></a>
 </p>
 
 ## :star: **Content-based Recommendation System**
@@ -32,7 +32,7 @@
 4. Use A_k for predicting ratings
 
 ## Resources
-- Notebooks: [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaylode/recommender-system/blob/master/resources/Recommender_System.ipynb)
+- Notebooks: [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaylode/rec-sys/blob/master/resources/Recommender_System.ipynb)
 
 - Slide: [link](./resources/SMM-Slides-ch9-vn.pdf)
 
@@ -43,5 +43,5 @@
 - IMDB Dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 <p align="center">
- <a><img width=800px src="https://github.com/kaylode/recommender-system/blob/master/images/recsys.png"></a>
+ <a><img width=800px src="https://github.com/kaylode/rec-sys/blob/master/images/recsys.png"></a>
 </p>
